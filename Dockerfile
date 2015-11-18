@@ -1,4 +1,4 @@
-FROM ubuntu:trusty
+FROM ubuntu:latest
 
 MAINTAINER me@endikaiglesias.com
 
